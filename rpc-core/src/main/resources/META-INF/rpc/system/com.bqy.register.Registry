@@ -1,0 +1,2 @@
+etcd=com.bqy.register.EtcdRegistry
+zookeeper=com.bqy.register.ZooKeeperRegistry

@@ -1,0 +1,4 @@
+failBack=com.bqy.fault.tolerant.FailBackTolerantStrategy
+failFast=com.bqy.fault.tolerant.FailFastTolerantStrategy
+failOver=com.bqy.fault.tolerant.FailOverTolerantStrategy
+failSafe=com.bqy.fault.tolerant.FailSafeTolerantStrategy

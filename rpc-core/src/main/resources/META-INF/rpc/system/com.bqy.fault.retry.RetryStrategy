@@ -1,0 +1,2 @@
+no=com.bqy.fault.retry.NoRetryStrategy
+fixedInterval=com.bqy.fault.retry.FixedIntervalRetryStrategy

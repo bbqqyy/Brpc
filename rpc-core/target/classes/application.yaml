@@ -1,0 +1,4 @@
+rpc:
+  name: bqyrpc
+  version: 1.5
+  serverPort: 8082

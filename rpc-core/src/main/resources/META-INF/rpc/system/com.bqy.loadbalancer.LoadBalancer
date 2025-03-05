@@ -1,0 +1,3 @@
+roundRobin=com.bqy.loadbalancer.RoundRobinLoadBalancer
+random=com.bqy.loadbalancer.RandomLoadBalancer
+consistentHash=com.bqy.loadbalancer.ConsistentHashMapLoadBalancer
